@@ -16,7 +16,8 @@ Please see the challenge page at [SANS Holiday Hack Challenge™ 2025](https://w
 
 ## Act I
 
-* Its All About Defang
+* 
+* [Its All About Defang](Act I/Markdown Files/1.1-Its-All-About-Defang.md)
 * Neighborhood Watch Bypass
 * Santa's Gift-Tracking Service Port Mystery
 * Visual Networking Thinger
@@ -31,4 +32,5 @@ Please see the challenge page at [SANS Holiday Hack Challenge™ 2025](https://w
 
 * Retro Recovery
 * Mail Detective
+
 * IDORable Bistro   
