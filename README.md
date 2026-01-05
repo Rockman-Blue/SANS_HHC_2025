@@ -16,7 +16,7 @@ Please see the challenge page at [SANS Holiday Hack Challenge™ 2025](https://w
 
 ## Act I
 
-* [Its All About Defang]([Act I/Markdown Files/1.1-Its-All-About-Defang.md](https://github.com/Rockman-Blue/SANS_HHC_2025/blob/1b96e79ef102d0791dc49472d5b203f4fa12fbb3/Act%20I/Markdown%20Files/1.1-Its-All-About-Defang.md))
+* [Its All About Defang](https://github.com/Rockman-Blue/SANS_HHC_2025/blob/1b96e79ef102d0791dc49472d5b203f4fa12fbb3/Act%20I/Markdown%20Files/1.1-Its-All-About-Defang.md)
 * Neighborhood Watch Bypass
 * Santa's Gift-Tracking Service Port Mystery
 * Visual Networking Thinger
@@ -32,4 +32,5 @@ Please see the challenge page at [SANS Holiday Hack Challenge™ 2025](https://w
 * Retro Recovery
 * Mail Detective
 * IDORable Bistro   
+
 
